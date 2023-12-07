@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @IFStowers
-- 👀 I’m interested in developing an active website to allow users to catalog and retrieve information concerning difficult to find items.
-- 🌱 I’m currently learning HTML, PHP 8 and MariaDB 
+- 👀 I’m interested in developing an active website to allow Rotary Club members to record attendance at weekly club meetings. The software will remind club members that they missed a weekly meeting and that they should try to attend next weeks meeting. For those who did attend, they will rceive a copy of notes taken at the meeting and a list of upcoming events.
+- 🌱 I’m currently learning HTML, PHP 8, MariaDB, Python, and Django. 
 - 💞️ I’m looking to collaborate with others who might already have developed similar software.
 - 📫 You can reach me at @IFStowers or irving.stowers@mac.com
-
-<!---
-IFStowers/IFStowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
